@@ -1,0 +1,13 @@
+
+]	java:S1071"<Method has 9 parameters, which is greater than 7 authorized.(Ú”°øÿÿÿÿÿ8²ñøı´0
+m	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ê¸á8²ñøı´0
+u	java:S131P"YComplete cases by adding the missing enum constants or add a default case to this switch.(Âñ Œ8±óøı´0
+u	java:S131t"YComplete cases by adding the missing enum constants or add a default case to this switch.(Âñ Œ8´óøı´0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ËŒ™×üÿÿÿÿ8·óøı´0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Š‰§¨8·óøı´0
+V	java:S1071"<Method has 9 parameters, which is greater than 7 authorized.(Ú”°øÿÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ê¸á
+n	java:S131P"YComplete cases by adding the missing enum constants or add a default case to this switch.(Âñ Œ
+n	java:S131t"YComplete cases by adding the missing enum constants or add a default case to this switch.(Âñ Œ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ËŒ™×üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Š‰§¨

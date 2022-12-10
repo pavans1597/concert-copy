@@ -1,0 +1,84 @@
+
+„
+java:S1192"mDefine a constant instead of duplicating this literal "                      <td align=\"center\">
+" 3 times.(ì›¼‹
+t
+java:S1192"]Define a constant instead of duplicating this literal "                      </td>
+" 3 times.(ıÁÚõ
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı„‘àúÿÿÿÿ8Â¸ÀÅ·0
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç—“ª8Â¸ÀÅ·0
+w
+java:S1104"ZMake SHARED_WITH_ME a static final constant or non-public and provide accessors if needed.(¾•»â8Ã¸ÀÅ·0
+s
+java:S1104{"VMake SERVER_URL a static final constant or non-public and provide accessors if needed.(Ôë‰—8Ã¸ÀÅ·0
+r
+java:S1104|"PMake USER a static final constant or non-public and provide accessors if needed.(Àø£Æşÿÿÿÿ8Ã¸ÀÅ·0
+q
+java:S1104}"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(àƒ›…8Ã¸ÀÅ·0
+{
+java:S1104"_Make DEFAULT_FILE_PATH_1 a static final constant or non-public and provide accessors if needed.(ŸÂàşÿÿÿÿ
+{
+java:S1104‘"_Make DEFAULT_FILE_PATH_6 a static final constant or non-public and provide accessors if needed.(·Õ¥Ùüÿÿÿÿ
+w
+java:S1104’"[Make VERSION_ENABLED a static final constant or non-public and provide accessors if needed.(•¿·´ıÿÿÿÿ
+m
+java:S1104›"WMake BACKEND_URL a static final constant or non-public and provide accessors if needed.(£¢ìZ
+w
+java:S1104"[Make applicationName a static final constant or non-public and provide accessors if needed.(Ø¬Äôşÿÿÿÿ
+t
+java:S1104"XMake FRONTEND_URL a static final constant or non-public and provide accessors if needed.(ğÔÔÿÿÿÿÿ
+o
+java:S1104 "XMake STORAGE_TYPE a static final constant or non-public and provide accessors if needed.(–­°´
+q
+java:S1104£"ZMake CREATE_ACCOUNT a static final constant or non-public and provide accessors if needed.(è„’Ğ
+Q
+java:S1444"4Make this "public static SHARED_WITH_ME" field final(¾•»â8Ä¸ÀÅ·0
+M
+java:S1444{"0Make this "public static SERVER_URL" field final(Ôë‰—8Ä¸ÀÅ·0
+L
+java:S1444|"*Make this "public static USER" field final(Àø£Æşÿÿÿÿ8Ä¸ÀÅ·0
+K
+java:S1444}".Make this "public static PASSWORD" field final(àƒ›…8Ä¸ÀÅ·0
+U
+java:S1444"9Make this "public static DEFAULT_FILE_PATH_1" field final(ŸÂàşÿÿÿÿ
+U
+java:S1444‘"9Make this "public static DEFAULT_FILE_PATH_6" field final(·Õ¥Ùüÿÿÿÿ
+Q
+java:S1444’"5Make this "public static VERSION_ENABLED" field final(•¿·´ıÿÿÿÿ
+G
+java:S1444›"1Make this "public static BACKEND_URL" field final(£¢ìZ
+Q
+java:S1444"5Make this "public static applicationName" field final(Ø¬Äôşÿÿÿÿ
+N
+java:S1444"2Make this "public static FRONTEND_URL" field final(ğÔÔÿÿÿÿÿ
+I
+java:S1444 "2Make this "public static STORAGE_TYPE" field final(–­°´
+K
+java:S1444£"4Make this "public static CREATE_ACCOUNT" field final(è„’Ğ
+t	java:S116+"XRename this field "TwitterImgSrc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û£‘8Ê¸ÀÅ·0
+v
+java:S3008"YRename this field "SHARED_WITH_ME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•»â8Ê¸ÀÅ·0
+r
+java:S3008{"URename this field "SERVER_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôë‰—8Ê¸ÀÅ·0
+q
+java:S3008|"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àø£Æşÿÿÿÿ8Ë¸ÀÅ·0
+p
+java:S3008}"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àƒ›…8Ë¸ÀÅ·0
+z
+java:S3008"^Rename this field "DEFAULT_FILE_PATH_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÂàşÿÿÿÿ
+z
+java:S3008‘"^Rename this field "DEFAULT_FILE_PATH_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Õ¥Ùüÿÿÿÿ
+v
+java:S3008’"ZRename this field "VERSION_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¿·´ıÿÿÿÿ
+l
+java:S3008›"VRename this field "BACKEND_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¢ìZ
+s
+java:S3008"WRename this field "FRONTEND_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔÔÿÿÿÿÿ
+n
+java:S3008 "WRename this field "STORAGE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–­°´
+p
+java:S3008£"YRename this field "CREATE_ACCOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è„’Ğ
+I
+java:S1135Á"2Complete the task associated to this TODO comment.(·â¡
+X
+java:S1075‡"ARefactor your code to get this URI from a customizable parameter.(•Ëô

@@ -1,0 +1,9 @@
+
+u
+java:S3655©"^Call "optionalSharing.isPresent()" or "!optionalSharing.isEmpty()" before accessing the value.(üü„
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(û§ùò
+R
+java:S1172Ô"6Remove these unused method parameters "sortBy", "asc".(ÀœÇ”üÿÿÿÿ
+K
+java:S1172›"/Remove this unused method parameter "username".(Îç­ëÿÿÿÿÿ

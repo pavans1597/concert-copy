@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//Indeed Inc//Indeed for Employers 1//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20200818T201607Z
+DTSTART:20200824T083000Z
+DTEND:20200824T103000Z
+SUMMARY:Interview request for Pavan N
+UID:34469de6d3dd677dbd56b0e2cd35b9fcd4c65bc46ba2@indeed.com
+ORGANIZER:mailto:sanjaychada2_bzc@indeedemail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pavankumar1597@gmail.com:mailto:pavankumar1597@gmail.com
+DESCRIPTION:Congratulations! Upon reviewing your application\, we would like to invite you to an onsite interview for the Software Developer position.\nNote: Please wear masks as part of COVID Prevention Norms and also everyone would be asked to sanitize thier hands\, before entering the office.
+LAST-MODIFIED:20200818T201607Z
+LOCATION:#Puttadas Complex\, III Floor\, No.825\, 13th Cross\, W.K.P. Road\, 7th Block\, Jayanagar\, Bangalore -560070.
+SEQUENCE:1
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

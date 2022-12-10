@@ -1,0 +1,28 @@
+
+Atypescript:S1128"%Remove this unused import of 'Input'.(ËÓß 
+Btypescript:S1128"&Remove this unused import of 'SockJS'.(úœªº
+Atypescript:S1128"%Remove this unused import of 'Stomp'.(èÂ€ï
+Ktypescript:S1128"/Remove this unused import of 'MAT_DIALOG_DATA'.(Ó½ºú
+Ftypescript:S1128"*Remove this unused import of 'Validators'.(¼äó
+Ztypescript:S1128"9Remove this unused import of 'getNumberOfCurrencyDigits'.(Ê§¦ÿÿÿÿÿ
+Htypescript:S1128!"'Remove this unused import of 'Console'.(ÀÓÃáûÿÿÿÿ
+Utypescript:S1128%"4Remove this unused import of 'distinctUntilChanged'.(‡—£œıÿÿÿÿ
+atypescript:S107¦">Constructor has too many parameters (8). Maximum allowed is 7.(ªğª”8âÏÓ‚™0
+dtypescript:S1854Ã";Remove this useless assignment to variable "messageResult".(¦“íÕøÿÿÿÿ8âÏÓ‚™0
+typescript:S3923í"[Remove this conditional structure or edit its code blocks so that they're not all the same.(®¢£ƒ8†ş¬‚™0
+Atypescript:S125ƒ"Remove this commented out code.(‹ÕÍ78†ş¬‚™0
+Gtypescript:S125ˆ"Remove this commented out code.(–ª‡Šøÿÿÿÿ8‡ş¬‚™0
+Gtypescript:S125Ğ"Remove this commented out code.(Ÿ©¨Ÿúÿÿÿÿ8‡ş¬‚™0
+}typescript:S5850‘"TGroup parts of the regex together to make the intended operator precedence explicit.(ë·èËÿÿÿÿÿ8ˆş¬‚™0
+atypescript:S1854È"8Remove this useless assignment to variable "addContact".(£€÷ÿÿÿÿÿ8ˆş¬‚™0
+Gtypescript:S125ø"Remove this commented out code.(Ö­â†üÿÿÿÿ8‰ş¬‚™0
+Btypescript:S125Ê"Remove this commented out code.(ë„è¦8‰ş¬‚™0
+Btypescript:S125ò"Remove this commented out code.(šä‘Î8‰ş¬‚™0
+Vtypescript:S1854·"3Remove this useless assignment to variable "today".(ÑäÏy8Šş¬‚™0
+Btypescript:S125Â"Remove this commented out code.(Óì±Á8Šş¬‚™0
+Atypescript:S125ş"Remove this commented out code.(Ñ³68‹ş¬‚™0
+Rtypescript:S1117®".'data' is already declared in the upper scope.(´œì8‹ş¬‚™0
+Btypescript:S125Â"Remove this commented out code.(Ãû¼ã8‹ş¬‚™0
+Ttypescript:S1117"0'result' is already declared in the upper scope.(ÙÇú¹8Œş¬‚™0
+Gtypescript:S125­"Remove this commented out code.(ÊÔ¹Åùÿÿÿÿ8Œş¬‚™0
+}typescript:S5850¸"TGroup parts of the regex together to make the intended operator precedence explicit.(¬Èè¨ûÿÿÿÿ8Œş¬‚™0

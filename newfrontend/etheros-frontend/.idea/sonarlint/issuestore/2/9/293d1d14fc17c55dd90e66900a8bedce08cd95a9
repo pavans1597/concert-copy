@@ -1,0 +1,52 @@
+
+Ntypescript:S1128	"-Remove this unused import of 'NavigationEnd'.(è²æúÿÿÿÿ
+Ftypescript:S1128	"%Remove this unused import of 'Event'.(è²æúÿÿÿÿ
+8typescript:S3863"'rxjs' import is duplicated.(Ôşßş
+Gtypescript:S1128&"$Remove this unused import of 'Howl'.(şÜ¡Ü8İ·Æš0
+Itypescript:S1128&"&Remove this unused import of 'Howler'.(şÜ¡Ü8Ş·Æš0
+[typescript:S107¡"?Constructor has too many parameters (12). Maximum allowed is 7.(ªğª”
+@typescript:S125¯"Remove this commented out code.(ÿ¦Œ—şÿÿÿÿ
+Itypescript:S1125½"'Remove the unnecessary boolean literal.(¤âÀİúÿÿÿÿ
+;typescript:S125À"Remove this commented out code.(ˆ·’©
+;typescript:S125Ã"Remove this commented out code.(Ä‹èÊ
+;typescript:S125Ò"Remove this commented out code.(ƒ®³ø
+ntypescript:S4138ñ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üÂùÿÿÿÿ
+;typescript:S125”"Remove this commented out code.(ˆ·’©
+;typescript:S125¾"Remove this commented out code.(áÎŸù
+;typescript:S125Â"Remove this commented out code.(áÎŸù
+Itypescript:S1125Ã"'Remove the unnecessary boolean literal.(¤âÀİúÿÿÿÿ
+]typescript:S2589—"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
+gtypescript:S905ÿ"FExpected an assignment or function call and instead saw an expression.(Ù„ºÜûÿÿÿÿ
+9typescript:S2814³"'toggle' is already defined.(¥É“¡
+9typescript:S2814Ã"'toggle' is already defined.(¥É“¡
+9typescript:S2814Ó"'toggle' is already defined.(¥É“¡
+9typescript:S2814ã"'toggle' is already defined.(¥É“¡
+9typescript:S2814ó"'toggle' is already defined.(¥É“¡
+9typescript:S2814ƒ"'toggle' is already defined.(¥É“¡
+9typescript:S2814“"'toggle' is already defined.(¥É“¡
+9typescript:S2814£"'toggle' is already defined.(¥É“¡
+9typescript:S2814³"'toggle' is already defined.(¥É“¡
+@typescript:S125Š"Remove this commented out code.(ôÂ»Ìûÿÿÿÿ
+Itypescript:S1125”"'Remove the unnecessary boolean literal.(ğ¢¨§ùÿÿÿÿ
+@typescript:S125œ"Remove this commented out code.(ÈÏ›Ìúÿÿÿÿ
+Itypescript:S1125¡"'Remove the unnecessary boolean literal.(şÿ³üÿÿÿÿ
+Itypescript:S1125¤"'Remove the unnecessary boolean literal.(«õ÷½ûÿÿÿÿ
+Dtypescript:S1125¥"'Remove the unnecessary boolean literal.(ò÷ÍÂ
+ntypescript:S4138²"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Åå®ùÿÿÿÿ
+@typescript:S125Ì"Remove this commented out code.(ôÂ»Ìûÿÿÿÿ
+@typescript:S125ë"Remove this commented out code.(ôÂ»Ìûÿÿÿÿ
+Mtypescript:S1854‘"0Remove this useless assignment to variable "dm".(æË¦è
+@typescript:S125™"Remove this commented out code.(ôÂ»Ìûÿÿÿÿ
+^typescript:S1854®"<Remove this useless assignment to variable "trimTotalSpace".(¼àĞüÿÿÿÿ
+@typescript:S125»"Remove this commented out code.(ôÂ»Ìûÿÿÿÿ
+ntypescript:S4138Á"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(İ­À ÿÿÿÿÿ
+ntypescript:S4138Å"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÃÀûºıÿÿÿÿ
+Ptypescript:S1117×".'data' is already declared in the upper scope.(ñ¤›ùÿÿÿÿ
+ntypescript:S4138Ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(êş¥¢ÿÿÿÿÿ
+@typescript:S125Û"Remove this commented out code.(ì°¶·şÿÿÿÿ
+itypescript:S4138Š"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(†Û¥÷
+:typescript:S125š	"Remove this commented out code.(î„5
+;typescript:S125·	"Remove this commented out code.( ¦’
+ctypescript:S1121»	"AExtract the assignment of "this.showBanner" from this expression.(çµë£ÿÿÿÿÿ
+^typescript:S1121¼	"AExtract the assignment of "this.showBanner" from this expression.(ˆı¾“
+Ytypescript:S1854Ç	"7Remove this useless assignment to variable "dialogRef".(Ö©µêùÿÿÿÿ

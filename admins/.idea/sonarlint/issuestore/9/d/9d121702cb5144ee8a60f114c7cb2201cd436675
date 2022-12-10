@@ -1,0 +1,5 @@
+
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›èÅÂøÿÿÿÿ8ô³ÄÄ·0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ÔÊúøÿÿÿÿ8ïäíÄ·0
+u
+java:S2975x"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ8„´ÄÄ·0

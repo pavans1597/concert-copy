@@ -1,0 +1,30 @@
+
+w
+java:S1192ò"[Define a constant instead of duplicating this literal "You can only view the file" 4 times.(™Û¨Æùÿÿÿÿ
+f
+java:S1192 "PDefine a constant instead of duplicating this literal " files/folders " 4 times.(ÀÎ¬H
+W	java:S107X"BConstructor has 13 parameters, which is greater than 7 authorized.(ëªÙ£
+n
+java:S3655¼"RCall "workSpace.isPresent()" or "!workSpace.isEmpty()" before accessing the value.(«çşãıÿÿÿÿ
+a
+java:S3655¨"JCall "paren.isPresent()" or "!paren.isEmpty()" before accessing the value.(‚Ô°¢
+a
+java:S3655‡"JCall "paren.isPresent()" or "!paren.isEmpty()" before accessing the value.(“¡¤ú
+|
+java:S1450V"aRemove the "tusUploadDirectory" field and declare it as a local variable in the relevant methods.(ÎÌÜŠüÿÿÿÿ
+i
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(°ŸĞ—
+G
+java:S1481ô"+Remove this unused "folder" local variable.(´ıÿÿÿÿ
+o
+java:S3776¯"SRefactor this method to reduce its Cognitive Complexity from 115 to the 15 allowed.(¯±•œıÿÿÿÿ
+E
+java:S1172¯".Remove this unused method parameter "request".(§—ãì
+o
+java:S3776»"SRefactor this method to reduce its Cognitive Complexity from 182 to the 15 allowed.(½ãê»ıÿÿÿÿ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÆÕ€‘
+E
+java:S1172­".Remove this unused method parameter "request".(£ª—„
+Q
+java:S1068V"6Remove this unused "tusUploadDirectory" private field.(ÎÌÜŠüÿÿÿÿ

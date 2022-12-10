@@ -1,0 +1,16 @@
+
+h	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ8›—´ş´0
+h	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(¾Äÿÿÿÿÿ8—´ş´0
+v
+java:S1192®"XUse already-defined constant 'TEXT_OR_PLAN_ERROR' instead of duplicating its value here.(ÛÖŞ±8ª—´ş´0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—ìîıÿÿÿÿ8­—´ş´0
+]	java:S110%"<This class has 7 parents which is greater than 5 authorized.(’ËŸÒÿÿÿÿÿ8°—´ş´0
+w	java:S116/"VRename this field "storage_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áê‘ğıÿÿÿÿ8•™´ş´0
+§
+java:S1130C"„Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from constructor's body.(â—ìîıÿÿÿÿ8¢™´ş´0
+D	java:S108J")Either remove or fill this block of code.(æ8¦™´ş´0
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(·àºÒ8Ùš´ş´0
+P
+java:S1135İ"2Complete the task associated to this TODO comment.(ˆ—ÍÌ8£›´ş´0
+L
+java:S10680"/Remove this unused "minioFolder" private field.(ïâ›Ì8¤›´ş´0
